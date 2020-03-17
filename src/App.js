@@ -1,6 +1,4 @@
-import React, { Fragment } from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
 import Slider from "./component/Slider";
 
 const App = () => {
